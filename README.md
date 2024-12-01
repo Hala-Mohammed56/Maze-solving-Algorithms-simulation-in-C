@@ -23,7 +23,7 @@ The Left-Hand Rule algorithm works like the Right-Hand Rule, but here, we keep t
 
 ## Examples
 - _Flood fill setup:_
-![Uploading WhatsApp Image 2024-12-01 at 11.41.28 AM (1).jpeg…]()
+![WhatsApp Image 2024-12-01 at 11 41 28 AM (1)](https://github.com/user-attachments/assets/43b0b2f7-0e71-4838-ba39-c623476cf94a)
 
 - _Right-Hand rule setup:_
   ![WhatsApp Image 2024-12-01 at 11 41 27 AM](https://github.com/user-attachments/assets/dad2f77c-1d69-4138-ab33-e98baad9d9f3)
