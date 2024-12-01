@@ -7,16 +7,12 @@ This repository contains three mazes that can be solved using the algorithms imp
 
 ### Flood Fill Algorithm
 Flood-fill is the algorithmic maze solver that methodically searches every possible path to the goal. It assigns travel distance values to each cell, continuously modifying them on the basis of adjacent paths. The rule operation thus finds the shortest and the most efficient route thereby increasing the efficacy of the algorithm with which complex mazes can be solved and enhanced with the navigation.
-![WhatsApp Image 2024-12-01 at 11 41 27 AM (1)](https://github.com/user-attachments/assets/86f5010d-0abb-4627-b983-244b97249bdf)
-
 
 ### Right-Hand Rule Algorithm (RH)
 The Right-Hand Rule algorithm is simply a wall-following method in maze navigation, whereby the individual keeps the right wall in contact in order to follow it through the passages of the maze. It will turn right whenever possible and proceed straight if clear. This is simple and efficient in mazes where such a solution is possible by consistently following the right side, although it may not generate the shortest path.
-![WhatsApp Image 2024-12-01 at 11 41 27 AM](https://github.com/user-attachments/assets/dad2f77c-1d69-4138-ab33-e98baad9d9f3)
 
 ### Left-Hand Rule Algorithm (LH)
 The Left-Hand Rule algorithm works like the Right-Hand Rule, but here, we keep the left wall to our left. The maze is traversed by turning left whenever possible, and in case the left side is blocked, either one moves as forward or turns to the right as required to proceed through the maze. Just like that, the Left-Hand Rule would likewise work in the case of a left-side solution through a maze, providing a simple yet reliable method of navigating those mazes.
-![WhatsApp Image 2024-12-01 at 11 41 27 AM (1)](https://github.com/user-attachments/assets/6e2ff187-a1c2-413c-8894-f72a9fa0b9ca)
 
 
 ## Utilization of the Simulator
@@ -26,9 +22,14 @@ The Left-Hand Rule algorithm works like the Right-Hand Rule, but here, we keep t
 4. Click the "Run" button to execute your algorithm.
 
 ## Examples
-- _Flood fill setup:_  
-- _Right-Hand rule setup:_  
+- _Flood fill setup:_
+  ![WhatsApp Image 2024-12-01 at 11 41 27 AM (1)](https://github.com/user-attachments/assets/86f5010d-0abb-4627-b983-244b97249bdf)
+
+- _Right-Hand rule setup:_
+  ![WhatsApp Image 2024-12-01 at 11 41 27 AM](https://github.com/user-attachments/assets/dad2f77c-1d69-4138-ab33-e98baad9d9f3)
+
 - _Left-Hand rule setup:_  
+![WhatsApp Image 2024-12-01 at 11 41 27 AM (1)](https://github.com/user-attachments/assets/6e2ff187-a1c2-413c-8894-f72a9fa0b9ca)
 
 ## Contributors
 - Hala Mohammed  
